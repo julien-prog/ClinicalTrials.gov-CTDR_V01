@@ -20,9 +20,9 @@ How to use it :
 
 First: Download the files and folders and store them on the same directory
 
-Second: Launch User_Interface_F4J_Public.py on your terminal or any IDE
+Second: Launch User_Interface_F4J_Public.py on your terminal or your IDE
 
-Third: In "XMl Schema":
+Third: In "XML Schema":
   click "Download the latest XML schema version" button ; the latest version will be stored in the XMLShema folder
   click "Apply Change" change
   
