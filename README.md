@@ -22,6 +22,6 @@ Fifth: Enter the output name and path
 
 Sixth: Paste the URL of the files to download with the following format: 
         https://clinicaltrials.gov/ct2/results/download_studies?cond=Covid19&term=&cntry=US&state=&city=&dist=
-  or select the CSV file where you previously put all the URL to download following the CSV pattern "Run_in_batch_example smaller.csv"
+  or select the CSV file where you previously put all the URL to download following the CSV pattern "Run_in_batch_example.csv"
 
 Seventh: Select the different option and launch it !
