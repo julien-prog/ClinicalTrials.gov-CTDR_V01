@@ -1,7 +1,17 @@
 
 # CTDR_V01
+Overview: 
 
-This is a python-tkinter interface that allow you to retrieve the data you want from ClinicalTrials.gov.
+ClinicalTrials.gov is a platform gathering the data of a high number of clinical trials performed through the last decades. The interface and the code behind, helps the user retrieving, organising and storing the data needed for a selected set of trials into a CSV file.
+
+The advantage of using this tool rather than dealing directly with the governmental platform:
+
+Store an unlimited number of trials data into the same CSV
+Show the user the entire set of retrievable information
+User select only the information needed
+Improve the efficiency by running URL in batch
+
+Requirements :
 
 These scripts were developed on Python 3 and does not work with Python 2.
 The graphic adjustement has been done on a Macbook 13 inch. No testing has been performed on other screen size and OS
